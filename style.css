@@ -1,4 +1,6 @@
 h1 {
     font-family: sans-serif;
     color: darkslategray;
+    background-color: aqua;
+    width: 20%;
 }
